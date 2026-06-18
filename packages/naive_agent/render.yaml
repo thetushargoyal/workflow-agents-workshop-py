@@ -23,3 +23,5 @@ projects:
           property: connectionString
       - key: PYTHON_VERSION
         value: '3.12'
+      - key: ANTHROPIC_API_KEY
+        sync: false
